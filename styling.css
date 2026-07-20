@@ -1,0 +1,29 @@
+body{
+    background-color: wheat;
+}
+
+body{
+    font-family: "news reader" sans-serif;
+}
+
+.heading{
+    color: green;
+}
+.lede, meta{
+    color: white;
+}
+thead{
+    background-color: aqua;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+   
+}
+div[profile-copy]{
+text-align: left;
+}
+tbody{
+    background-color: beige;
+}
